@@ -27,4 +27,4 @@ David can operate a number of different computer controlled (CNC) fabrication to
 
 The new Digital Fabrication Minor was covered in the [Vanderbilt Hustler](https://vanderbilthustler.com/2022/11/09/digital-fabrication-minor-introduced-for-2022-23-academic-year/).
 
-![Khattab Ahmed](/assets/img/David_Headshot_web2.jpg)
+![Khattab Ahmed](/assets/img/Khattab_Headshot_web2.jpg)
