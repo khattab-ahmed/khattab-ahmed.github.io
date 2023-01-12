@@ -1,6 +1,6 @@
 ---
 
-title: "About David Florian"
+title: "About Khattab Ahmed"
 
 ---
 
@@ -8,11 +8,11 @@ title: "About David Florian"
 
 David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
 
-* University of Virginia
-  * BS Mathematics
-  * BS Biomedical Engineering
+* Northampton Community College
+  * AS Engineering
 * Vanderbilt University
-  * PhD Biomedical Engineering
+  * BS Mechanical Engineering
+   * Minor: Digital Fabrication
 
 ## Technical Skills
 
@@ -21,11 +21,10 @@ David can operate a number of different computer controlled (CNC) fabrication to
 * Fused Filament Fabrication (FFF)
 * Stereolithography (SLA)
 * Selective Laser Sintering (SLS)
-* 3D Inkjet Printing
-* Bioplotting
+
 
 ## Press 
 
 The new Digital Fabrication Minor was covered in the [Vanderbilt Hustler](https://vanderbilthustler.com/2022/11/09/digital-fabrication-minor-introduced-for-2022-23-academic-year/).
 
-![David Florian](/assets/img/David_Headshot_web2.jpg)
+![Khattab Ahmed](/assets/img/David_Headshot_web2.jpg)
