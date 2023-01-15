@@ -9,12 +9,8 @@ header:
     - label: "My Projects"
       url: "/portfolio/"
 excerpt: "Current senior at Vanderbilt University Studying Mechanical Engineering. Passionate about making an impact on the world within the Aviation Industry. "
-feature_row:
-  - image_path: assets/img/CNC-Mill-Thumbnail.jpg
-    alt: "CNC Mill"
-    title: "Custom CNC Milling Machine"
-    excerpt: "Built for fabricating aluminum and steel parts."
-    
+
+   
 ---
 
 {% include feature_row %}
