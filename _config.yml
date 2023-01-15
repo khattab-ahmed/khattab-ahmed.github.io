@@ -13,7 +13,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Khattab Ahmed"
 title_separator          : "-"
-subtitle                 : "Example Website for Class"
+subtitle                 : "Personal Website"
 name                     : &name "Khattab Ahmed" # &name is a YAML anchor which can be *referenced later
 description              : &description "Example website for class "
 url                      : https://khattabahmed1.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -97,16 +97,16 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "assets/img/David_Headshot_web2.jpg"
+  avatar           : "assets/img/Khattab_Headshot_web2.jpg"
   bio              : "Incoming Edison Engineer @GE Aerospace"
   location         : "Nashville, TN"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/DrD-Flo"
+      url: "https://github.com/khattabahmed1"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/dr.dflo"
+      url: "https://www.instagram.com/khatt.ab"
 
 
 # Site Footer
@@ -114,10 +114,10 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/DrD-Flo"
+      url: "https://github.com/khattabahmed1"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/dr.dflo"
+      url: "https://www.instagram.com/khatt.ab"
 
 
 # Reading Files
