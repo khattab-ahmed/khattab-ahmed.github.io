@@ -7,8 +7,7 @@ gallery:
   - url: /assets/img/SyringePump1.JPG
     image_path: assets/img/SyringePump1.JPG
     alt: "placeholder image 1"
-  - url: /assets/img/SyringePump2.JPG
-    <img src="/assets/img/SyringePump2.JPG" alt="Syringe Pump Project" style="width:200px;"/>
+  - <img src="/assets/img/SyringePump2.JPG" alt="Syringe Pump Project" style="width:200px;"/>
     alt: "placeholder image 2"
   
 ---
