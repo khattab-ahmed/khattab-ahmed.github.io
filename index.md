@@ -9,7 +9,7 @@ header:
     - label: "My Projects"
       url: "/portfolio/"
 
-excerpt: "Current senior at Vanderbilt University studying Mechanical Engineering. Passionate about making an impact on the world within the Aviation Industry. This website shares a little bit of my past experiece and some current projects I am working on. Feel free to contact me to discuss any "
+excerpt: "Current senior at Vanderbilt University studying Mechanical Engineering. Passionate about making an impact on the world within the Aviation Industry. This website shares a little bit of my past experiece and some current projects I am working on. Feel free to contact me to discuss any oppetunites or questions."
 
 feature_row:
   - image_path: assets/img/SLSTurbine.JPG
