@@ -13,6 +13,6 @@ gallery:
   
 ---
 
-This was a prject for DF2100 (Rapid Prototyping). The goal was to create a Syringe pump that could be easily operated made from 3D printed material.  
+This was a project for DF2100 (Rapid Prototyping). The goal was to create a Syringe pump that could be easily operated made from 3D printed material.  
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
