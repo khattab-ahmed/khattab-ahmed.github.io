@@ -13,10 +13,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Khattab Ahmed"
 title_separator          : "-"
-subtitle                 : "Personal Website"
+subtitle                 : ""
 name                     : &name "Khattab Ahmed" # &name is a YAML anchor which can be *referenced later
-description              : &description "Example website for class "
-url                      : https://khattabahmed1.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description ""
+url                      : https://khattab-ahmed.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -103,10 +103,13 @@ author:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/khattabahmed1"
+      url: "https://github.com/khatta-bahmed"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/khatt.ab"
+      label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/khattab-ahmed/"
 
 
 # Site Footer
@@ -114,11 +117,13 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/khattabahmed1"
+      url: "https://github.com/khattab-ahmed"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/khatt.ab"
-
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/khattab-ahmed/"
 
 # Reading Files
 include:
