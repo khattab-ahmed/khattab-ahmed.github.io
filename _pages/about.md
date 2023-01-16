@@ -13,9 +13,31 @@ Khattab prioritizes continous learning and believes the worst thing you can do r
 * Vanderbilt University
   * BS Mechanical Engineering, Minor: Digital Fabrication
 
+
+## Work Experience
+
+Blah Blah
+
+* Collins Aerospace (6/22 - 8/22)
+  * Mechanical Engineering Intern
+* ConsumerAffairs (6/21 - 8/21)
+  * Business Analyst Intern
+
+
 ## Technical Skills
 
-Khattab has experience with the following additive manufacturing technologies:
+Khattab has experience with the following additive manufacturing technologies, softwares, and machinery:
 
-* Fused Filament Fabrication (FFF)
-* Selective Laser Sintering (SLS)
+* CAD
+  * SolidWorks(CSWA)
+  * Fusion360
+* Addative Manufacturing
+  * Fused Filament Fabrication (FFF)
+  * Selective Laser Sintering (SLS)
+* Software
+  * C/C++
+  * JAVA
+  * MATLAB
+  * LabView
+  * Arduino
+
