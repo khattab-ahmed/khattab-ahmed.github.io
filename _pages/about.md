@@ -1,6 +1,6 @@
 ---
 
-title: "About Khattab Ahmed"
+title: "About Me"
 
 ---
 
@@ -26,7 +26,7 @@ Blah Blah
 
 ## Technical Skills
 
-Khattab has experience with the following additive manufacturing technologies, softwares, and machinery:
+Khattab has experience with the following additive manufacturing technologies and softwares:
 
 * CAD
   * SolidWorks(CSWA)
