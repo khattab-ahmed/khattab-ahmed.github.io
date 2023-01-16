@@ -16,8 +16,7 @@ gallery:
 This was a project for DF2100 (Rapid Prototyping). The goal was to create a Syringe pump that could be easily operated made from 3D printed material.  
 
 # Arduino Code
- - url: /assets/img/FInal_.ino
-   image_path: assets/img/FInal_.ino
+[Link to Arduino Code](/FInal_.ino)
 
 # CAD Model
 <iframe src="https://a360.co/3WfaQSP" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
