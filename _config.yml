@@ -11,7 +11,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Khattab Ahmed"
+title                    : "Home"
 title_separator          : "-"
 subtitle                 : ""
 name                     : &name "Khattab Ahmed" # &name is a YAML anchor which can be *referenced later
