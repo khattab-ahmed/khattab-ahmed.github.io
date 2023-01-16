@@ -21,5 +21,30 @@ This was a project for DF2100 (Rapid Prototyping). The goal was to create a Syri
 # CAD Model
 <iframe src="https://a360.co/3WfaQSP" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
+# Components
+
+| Off-the-shelf  | Quanity |
+| ------------- | ------------- |
+| 2mm Lead Screw  | 1 |
+| 1/4" x 8mm Flexible Coupling  | 1  |
+| 200 mm linear rod with 8 mm diameter  | 1  |
+| LM8UU Linear bearing for 8 mm diameter rod  | 1  |
+| 2040 Aluminum Extrusion 1' Length  | 1  |
+| Nema 17 Stepper Motor  | 1  |
+| Arduino Uno  | 1  |
+| A4988 Stepper Driver  | 1  |
+| Small Breadboard  | 1  |
+| Panel Mount Latching Push Buttons  | 2  |
+| Limit Switch  | 1  |
+| RGB Common Cathode LED  | 1  |
+
+| 3D Printed  | Quanity |
+| ------------- | ------------- |
+| Electronics Housing  | 1 |
+| Motor Mount  | 1 |
+| Syringe Mount  | 3 |
+
+
+
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
  
