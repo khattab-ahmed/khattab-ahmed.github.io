@@ -30,8 +30,8 @@ This was a project for DF2100 (Rapid Prototyping). The goal was to create a Syri
 | ------------- | ------------- |
 | 2mm Lead Screw  | 1 |
 | 1/4" x 8mm Flexible Coupling  | 1  |
-| 200 mm linear rod with 8 mm diameter  | 1  |
-| LM8UU Linear bearing for 8 mm diameter rod  | 1  |
+| 200mm linear rod with 8 mm diameter  | 1  |
+| Linear bearing with 8 mm diameter  | 1  |
 | 2040 Aluminum Extrusion 1' Length  | 1  |
 | Nema 17 Stepper Motor  | 1  |
 | Arduino Uno  | 1  |
