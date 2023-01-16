@@ -19,3 +19,4 @@ This was a project for DF2100 (Rapid Prototyping). The goal was to create a Syri
 <iframe src="https://a360.co/3WfaQSP" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
+ 
