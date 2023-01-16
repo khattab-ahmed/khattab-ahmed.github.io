@@ -12,17 +12,14 @@ header:
 excerpt: "Current senior at Vanderbilt University studying Mechanical Engineering. Passionate about making an impact on the world within the Aviation Industry. "
 
 feature_row:
-  - image_path: assets/img/CNC-Mill-Thumbnail.jpg
-    alt: "CNC Mill"
-    title: "Custom CNC Milling Machine"
-    excerpt: "Built for fabricating aluminum and steel parts."
-  - image_path: assets/img/Plasma-Cutter-Banner.jpg
-    alt: "placeholder image 2"
-    title: "DIY Plasma Cutter"
-    excerpt: "A hot plasma stream slices through sheet metal."
-  - image_path: assets/img/Zidex-Thumbnail.jpg
-    title: "Bespoke IDEX 3D Printer"
-    excerpt: "Multimaterial printing. "
+  - image_path: assets/img/SyringePump.JPG
+    alt: "3D Printed Syringe Pump"
+    title: "3D Printed Syringe Pump"
+    excerpt: "Custom made"
+  - image_path: assets/img/SLSTurbine.JPG
+    alt: "SLS Turbine"
+    title: "SLS Turbine"
+    excerpt: "Nylon SLS printed EDF Turbine"
    
 ---
 
