@@ -6,7 +6,7 @@ title: "About Khattab Ahmed"
 
 ## Education
 
-Khattab prioritizes continous learning and believes the worst thing you can do remain stagnet in an ever changing world. He is actively ganing knowlege in additive manufacturing (i.e., 3D printing) and mechanical engineering. 
+Khattab prioritizes continous learning and believes the worst thing you can do remain stagnet in an ever changing world. He is actively ganing knowlege in additive manufacturing (i.e., 3D printing) and mechanical engineering as he finishes up his Bachalor's Degree. 
 
 * Northampton Community College
   * AS Engineering
