@@ -13,7 +13,7 @@ gallery:
   
 ---
 
-This was a project for DF2100 (Rapid Prototyping). The goal was to create a Syringe pump that could be easily operated made from 3D printed material.  
+This was a project for DF2100 (Rapid Prototyping). The goal was to create a Syringe pump that could be easily operated made from 3D printed material. Using a stepper motor powered by an arduino a specifc flow rate of liquid could be dispensed based on the 2mm lead screw used in the project. When facing the Syringe Pump, pressing the button the right, the motor would turn clockwise which turned the lead screw and pushed the syringes in. The left button did the opposite and retracted the syringes so that they can be removed easily.   
 
 # Arduino Code
 [Link to Arduino Code](/FInal_.ino)
