@@ -16,7 +16,7 @@ feature_row:
     alt: "Mini SLS Turbine"
     title: "SLS Turbine"
     excerpt: "Current Project: Nylon EDF Turbine"
-  - image_path: assets/img/CobotInFactory.JPG
+  - image_path: assets/img/CobotInFactory.png
     alt: "Senior Design Project"
     title: "Nissan Automation Project"
     excerpt: "Current Senior Design Project"
