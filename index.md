@@ -12,10 +12,6 @@ header:
 excerpt: "Current senior at Vanderbilt University studying Mechanical Engineering. Passionate about making an impact on the world within the Aviation Industry. "
 
 feature_row:
-  - image_path: assets/img/SyringePump.JPG
-    alt: "3D Printed Syringe Pump"
-    title: "3D Printed Syringe Pump"
-    excerpt: "Custom made"
   - image_path: assets/img/SLSTurbine.JPG
     alt: "SLS Turbine"
     title: "SLS Turbine"
