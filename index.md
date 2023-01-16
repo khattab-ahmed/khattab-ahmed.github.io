@@ -1,5 +1,5 @@
 ---
-title: "Personal Website"
+title: "Khattab Ahmed"
 layout: splash
 header:
   overlay_color: "#000"
