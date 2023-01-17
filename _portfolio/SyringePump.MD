@@ -13,8 +13,6 @@ gallery:
   
 ---
 
-# Project Details
-
 The purpose of this project was to create a functional, accurate, and cost-efficient syringe pump using the available materials in the Vanderbilt Digital Fabrication Lab for my Rapid Prototyping course. Various tools such as Autodesk Fusion 360 , a Voron printer, a stepper motor, and an arduino amongst other materials were used to complete this project. The Syringe pump excedded project requirenment by allowing the operater dispense liquit from both syringes at the same time while also automatically stopping the motor when th syringes were near empty. The functions of the pump are as follows:
 
 * The ability to drive liquid at a specific flow rate
@@ -44,28 +42,26 @@ The purpose of this project was to create a functional, accurate, and cost-effic
 
 # Components
 
+| 3D Printed  | Quanity |
+| ------------- | ------------- |
+| Electronics housing (PLA)  | 1 |
+| Motor mount (ABS)  | 1 |
+| Syringe mounting brackets (PLA)  | 3 |
+
 | Off-the-shelf  | Quanity |
 | ------------- | ------------- |
 | 2mm Lead Screw  | 1 |
 | 1/4" x 8mm Flexible Coupling  | 1  |
-| 200mm linear rod with 8 mm diameter  | 1  |
-| Linear bearing with 8 mm diameter  | 1  |
-| 2040 Aluminum Extrusion 1' Length  | 1  |
+| 200mm linear rod (8 mm diameter)  | 1  |
+| Linear bearing (8 mm diameter) | 1  |
+| 2040 Aluminum Extrusion 1'  | 1  |
 | Nema 17 Stepper Motor  | 1  |
 | Arduino Uno  | 1  |
 | A4988 Stepper Driver  | 1  |
 | Small Breadboard  | 1  |
-| Panel Mount Latching Push Buttons  | 2  |
+| Latching Push Buttons  | 2  |
 | Limit Switch  | 1  |
 | RGB Common Cathode LED  | 1  |
-
-
-| 3D Printed  | Quanity |
-| ------------- | ------------- |
-| Electronics housing(PLA)  | 1 |
-| Motor mount(ABS)  | 1 |
-| Syringe mounting brackets(PLA)  | 3 |
-
 
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
