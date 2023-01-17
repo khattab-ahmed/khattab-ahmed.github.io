@@ -13,7 +13,7 @@ gallery:
   
 ---
 
-The purpose of this project was to create a functional, accurate, and cost-efficient syringe pump using the available materials in the Vanderbilt Digital Fabrication Lab for my Rapid Prototyping course. Various tools such as Autodesk Fusion 360 , a Voron printer, a stepper motor, and an arduino amongst other materials were used to complete this project. The Syringe pump excedded project requirenment by allowing the operater dispense liquit from both syringes at the same time while also automatically stopping the motor when th syringes were near empty. The functions of the pump are as follows:
+The purpose of this project was to create a functional, accurate, and cost-efficient syringe pump using the available materials in the Vanderbilt Digital Fabrication Lab for my Rapid Prototyping course. Various tools such as Autodesk Fusion 360, a Voron printer, a stepper motor, and an arduino amongst other materials were used to complete this project. The Syringe pump excedded project requirenment by allowing the operater dispense liquit from both syringes at the same time while also automatically stopping the motor when th syringes were near empty. The functions of the pump are as follows:
 
 * The ability to drive liquid at a specific flow rate
 * Hold both a 5 mL and a 20 mL syringe
