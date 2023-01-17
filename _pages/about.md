@@ -17,7 +17,7 @@ Khattab prioritizes continous learning and believes the worst thing you can do r
 
 ## Work Experience
 
-Blah Blah
+Khattab has gained aerospace and business experience from previous experiences. 
 
 * Collins Aerospace (6/22 - 8/22)
   * Mechanical Engineering Intern
