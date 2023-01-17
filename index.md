@@ -13,13 +13,14 @@ excerpt: "Current senior at Vanderbilt University studying Mechanical Engineerin
 
 feature_row:
   - image_path: assets/img/SLSTurbine.JPG
-    alt: "Mini SLS Turbine"
     title: "SLS Turbine"
     excerpt: "Current Project: Nylon EDF Turbine"
   - image_path: assets/img/CobotInFactory.png
-    alt: "Senior Design Project"
     title: "Nissan Automation Project"
     excerpt: "Current Senior Design Project"
+  - image_path: assets/img/DeskClock.JPG
+    title: "Mechatronic Desk Clock"
+    excerpt: "Multi-Use desk clock that dispenses condoms"  
    
 ---
 
