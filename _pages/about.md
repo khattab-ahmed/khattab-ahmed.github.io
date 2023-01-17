@@ -11,7 +11,8 @@ Khattab prioritizes continous learning and believes the worst thing you can do r
 * Northampton Community College
   * AS Engineering
 * Vanderbilt University
-  * BS Mechanical Engineering, Minor: Digital Fabrication
+  * BS Mechanical Engineering 
+    * Minor: Digital Fabrication
 
 
 ## Work Experience
