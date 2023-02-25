@@ -5,7 +5,7 @@ header:
   teaser: /assets/img/Pliers1.PNG
 gallery:
   - url: /assets/img/Pliers2.PNG
-    image_path: assets/img/Pliers2.JPG
+    image_path: assets/img/Pliers2.PNG
     alt: "placeholder image 1"
   - url: /assets/img/Pliers3.JPG
     image_path: assets/img/Pliers3.JPG
