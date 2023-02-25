@@ -4,14 +4,14 @@ excerpt: "3-D printed fuctional Pliers"
 header:
   teaser: /assets/img/Pliers.png
 gallery:
-  - url: /assets/img/Pliers1.png
-    image_path: assets/img/Pliers1.png
+  - url: /assets/img/Pliers1.jpeg
+    image_path: assets/img/Pliers1.jpeg
     alt: "placeholder image 1"
-  - url: /assets/img/Pliers2.JPG
-    image_path: assets/img/Pliers2.JPG
+  - url: /assets/img/Pliers2.jpeg
+    image_path: assets/img/Pliers2.jpeg
     alt: "placeholder image 2"
-  - url: /assets/img/Pliers3.JPG
-    image_path: assets/img/Pliers3.JPG
+  - url: /assets/img/Pliers3.jpeg
+    image_path: assets/img/Pliers3.jpeg
     alt: "placeholder image 3"
   
 ---
