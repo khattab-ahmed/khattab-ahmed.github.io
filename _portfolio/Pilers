@@ -16,12 +16,12 @@ gallery:
 The purpose of this project was to create functional print-in-place pliers using two different types of filament material. Print-in-place parts are an assembly that is printed without the need for any further manual assembly, and one can start using the part right after it is printed. The pliers themselves are meant to be able to pickup a 3 mm diameter colorant plastic pellet, move it to another location and then realease it. A dual extrusion 3D printer was necessary in order to create this device and the two materials that were used were Polylactic acid (PLA) and Thermoplastic polyurethane (TPU). PLA since it is rigid and easy to manufacture and TPU for functrional flexibility of gripping.
 
 
-# CAD Model
+## CAD Model
 
 <iframe src="https://a360.co/3IVqUpF" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 
-# Design Specifications
+## Design Specifications
 
 *A MakerGear M3-ID printer with 0.35 mm dual extrusion nozzles was used to dual extrude both filaments.
 *PLA filament was used for the rigid plastic components TPU 95A was for the spring component.
@@ -33,7 +33,7 @@ The purpose of this project was to create functional print-in-place pliers using
   *Maximum Jaw Capacity: 31.17 mm (1.23”)
 
 
-# Print Settings
+## Print Settings
 
 Within the CAD model, the different parts (Plier’s arms and spring) are different bodies to allow for easy selection of assigning materials to each section of the pliers. The file was Sliced using SuperSlicer to prepare the model for printing. After assigning the arms and spring componet to there respective material nozzles on the printer, some settings were manipulated for accurate printing.
 *TPU is much more elastic and sensitive than PLA so the maximum speed volumetric speed was 15 mm3/s for both, but TPU has a maximum extrusion speed of 25 mm/s to prevent jamming within the extruder. 
