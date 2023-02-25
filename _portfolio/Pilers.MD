@@ -45,7 +45,6 @@ Within the CAD model, the different parts (Plier’s arms and spring) are differ
 * A 15% gyriod infill was used, but that can be changed depending on the 
 * A wipe tower was used to purge, or extrude moltan fliliment before switching which nozzle is operating. The nozzles switch to allow different materials consecutively, this was very important in throughout the interlocking joints and the spring mechanism as a whole. The wipe tower was extremely beneficial in priming the nozzle and making sure there was no contamination between filament extrusion. Through iterations, a 30 mm wide wipe tower with a 2 mm brim worked well.  
 
-The whole part took around 4 hours to print and the final product, after a few iterations were functional multi material print in place pliers. 
-
+The whole part takes around 4 hours to print on a MakerGear M3-ID printer and the final product, after a few iterations were functional multi material print in place pliers.
 
 {% include gallery caption="Iteration of pliers in order from left to right" %}
