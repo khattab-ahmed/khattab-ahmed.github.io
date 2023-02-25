@@ -2,14 +2,17 @@
 title: "Multimaterial Print-in-Place Pliers"
 excerpt: "3-D printed fuctional Pliers"
 header:
-  teaser: /assets/img/Pliers1.png
+  teaser: /assets/img/Pliers.png
 gallery:
-  - url: /assets/img/Pliers2.png
-    image_path: assets/img/Pliers2.png
+  - url: /assets/img/Pliers1.png
+    image_path: assets/img/Pliers1.png
     alt: "placeholder image 1"
+  - url: /assets/img/Pliers2.JPG
+    image_path: assets/img/Pliers2.JPG
+    alt: "placeholder image 2"
   - url: /assets/img/Pliers3.JPG
     image_path: assets/img/Pliers3.JPG
-    alt: "placeholder image 2"
+    alt: "placeholder image 3"
   
 ---
 
@@ -45,4 +48,4 @@ Within the CAD model, the different parts (Plier’s arms and spring) are differ
 The whole part took around 4 hours to print and the final product, after a few iterations were functional multi material print in place pliers. 
 
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+{% include gallery caption="Iteration of pliers in order from left to right" %}
