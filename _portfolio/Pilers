@@ -1,0 +1,28 @@
+---
+title: "Multimaterial Print-in-Place Pliers"
+excerpt: "3-D printed fuctional Pliers"
+header:
+  teaser: /assets/img/Pliers1.JPG
+gallery:
+  - url: /assets/img/Pliers2.JPG
+    image_path: assets/img/Pliers2.JPG
+    alt: "placeholder image 1"
+  - url: /assets/img/Pliers3.JPG
+    image_path: assets/img/Pliers3.JPG
+    alt: "placeholder image 2"
+  
+---
+
+The purpose of this project was to create a functional, accurate, and cost-efficient syringe pump using the available materials in the Vanderbilt Digital Fabrication Lab for my Rapid Prototyping course. Various tools such as Autodesk Fusion 360, a Voron printer, a stepper motor, and an arduino amongst other materials were used to complete this project. The Syringe pump excedded project requirenment by allowing the operater dispense liquit from both syringes at the same time while also automatically stopping the motor when th syringes were near empty. The functions of the pump are as follows:
+
+* The ability to pick up a 3 mm colorant plastic pellet, move it to another location and then realease it 
+
+
+# CAD Model
+<iframe src="https://a360.co/3IVqUpF" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+
+# Design Specifications
+
+
+{% include gallery caption="This is a sample gallery to go along with this case study." %}
