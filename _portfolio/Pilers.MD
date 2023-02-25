@@ -2,10 +2,10 @@
 title: "Multimaterial Print-in-Place Pliers"
 excerpt: "3-D printed fuctional Pliers"
 header:
-  teaser: /assets/img/Pliers1.PNG
+  teaser: /assets/img/Pliers1.png
 gallery:
-  - url: /assets/img/Pliers2.PNG
-    image_path: assets/img/Pliers2.PNG
+  - url: /assets/img/Pliers2.png
+    image_path: assets/img/Pliers2.png
     alt: "placeholder image 1"
   - url: /assets/img/Pliers3.JPG
     image_path: assets/img/Pliers3.JPG
