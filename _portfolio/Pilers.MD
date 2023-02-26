@@ -6,13 +6,13 @@ header:
 gallery:
   - url: /assets/img/Pliers1.jpeg
     image_path: assets/img/Pliers1.jpeg
-    alt: "placeholder image 1"
+    alt: "Iteration 1"
   - url: /assets/img/Pliers2.jpeg
     image_path: assets/img/Pliers2.jpeg
-    alt: "placeholder image 2"
+    alt: "Iteration 2"
   - url: /assets/img/Pliers3.jpeg
     image_path: assets/img/Pliers3.jpeg
-    alt: "placeholder image 3"
+    alt: "Iteration 3"
   
 ---
 
