@@ -22,8 +22,7 @@ The purpose of this project was to create functional print-in-place pliers using
 # CAD Model
 
 <iframe src="https://a360.co/3IVqUpF" width="600" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-
-# 
+ 
 
 # Design Specifications
 
