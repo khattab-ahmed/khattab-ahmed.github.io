@@ -16,7 +16,7 @@ gallery:
   
 ---
 
-The purpose of this project was to create functional print-in-place pliers using two different types of filament material. Print-in-place parts are an assembly that is printed without the need for any further manual assembly, and one can start using the part right after it is printed. The pliers themselves are meant to be able to pick up a 3 mm diameter colorant plastic pellet, move it to another location and then release it. A dual extrusion 3D printer was necessary in order to create this device and the two materials that were used were Polylactic acid (PLA) and Thermoplastic polyurethane (TPU). PLA since it is rigid and easy to manufacture and TPU for functional flexibility of gripping.
+This project was for my Additive and Polymer-Based Manufacturing course and resources from Vanderbilt University's Digital Fabrication Lab were used. The purpose of this project was to create functional print-in-place pliers using two different types of filament material. Print-in-place parts are an assembly that is printed without the need for any further manual assembly, and one can start using the part right after it is printed. The pliers themselves are meant to be able to pick up a 3 mm diameter colorant plastic pellet, move it to another location and then release it. A dual extrusion 3D printer was necessary in order to create this device and the two materials that were used were Polylactic acid (PLA) and Thermoplastic polyurethane (TPU). PLA since it is rigid and easy to manufacture and TPU for functional flexibility of gripping.
 
 
 # CAD Model
