@@ -21,6 +21,8 @@ This project was for my Additive and Polymer-Based Manufacturing course and reso
 
 # CAD Model
 
+The Pliers were created in Fusion360 and the model is shown below.
+
 <iframe src="https://a360.co/3IVqUpF" width="600" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
  
 
