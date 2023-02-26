@@ -21,7 +21,7 @@ This project was for my Additive and Polymer-Based Manufacturing course and reso
 
 # CAD Model
 
-The Pliers were created in Fusion360 and the model is shown below.
+The pliers were created in Fusion360 and the model is shown below.
 
 <iframe src="https://a360.co/3IVqUpF" width="600" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
  
@@ -47,7 +47,7 @@ The design sat flush with the printer bed, therefore no support material was nec
 * A 15% gyroid infill was used, but that can be changed depending on the 
 * A wipe tower was used to purge or extrude molten filament before switching which nozzle is operating. The nozzles switch to allow different materials consecutively, this was very important throughout the interlocking joints and the spring mechanism as a whole. The wipe tower was extremely beneficial in priming the nozzle and ensuring there was no contamination between filament extrusion. Through iterations, a 30 mm wide wipe tower with a 2 mm brim worked well.  
 
-The whole part takes around 4 hours to print on a MakerGear M3-ID printer and the final product after a few iterations were functional multi-material print in place, pliers. 
+The whole part takes around 4 hours to print on a MakerGear M3-ID printer with the above mentioned print settings and the after a few iterations the final product was functional multi-material pliers capable of picking up a 3mm pellet. 
 
 
 {% include gallery caption="Iteration of pliers in order from left to right" %}
