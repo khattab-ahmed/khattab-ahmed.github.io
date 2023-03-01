@@ -14,8 +14,9 @@ gallery:
     image_path: assets/img/Pliers3.jpeg
     alt: "Iteration 3"
   - url: /assets/img/PliersSqueeze.jpg
-    image_path: assets/img/PliersSqueeze.jpg
-    alt: "Squeeze"
+   image_path: assets/img/PliersSqueeze.jpg
+   alt: "Squeeze"
+   
 ---
 
 This project was for my Additive and Polymer-Based Manufacturing course and resources from Vanderbilt University's Digital Fabrication Lab were used. The purpose of this project was to create functional print-in-place pliers using two different types of filament material. Print-in-place parts are an assembly that is printed without the need for any further manual assembly, and one can start using the part right after it is printed. The pliers themselves are meant to be able to pick up a 3 mm diameter colorant plastic pellet, move it to another location and then release it. A dual extrusion 3D printer was necessary in order to create this device and the two materials that were used were Polylactic acid (PLA) and Thermoplastic polyurethane (TPU). PLA since it is rigid and easy to manufacture and TPU for functional flexibility of gripping.
@@ -52,4 +53,4 @@ The design sat flush with the printer bed, therefore no support material was nec
 The whole part takes around 4 hours to print on a MakerGear M3-ID printer with the above-mentioned print settings and then after a few iterations the final product was functional multi-material pliers capable of picking up a 3mm pellet shown below in red and blue.
 
 
-{% include gallery caption="Iteration of pliers in order from left to right" %}
+{% include gallery caption="Iteration of pliers in order from left to right and final product test case" %}
