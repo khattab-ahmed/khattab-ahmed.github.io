@@ -13,8 +13,8 @@ gallery:
   - url: /assets/img/Pliers3.jpeg
     image_path: assets/img/Pliers3.jpeg
     alt: "Iteration 3"
-  - url: /assets/img/PliersSqueeze.jpeg
-    image_path: assets/img/PliersSqueeze.jpeg
+  - url: /assets/img/PliersSqueeze.jpg
+    image_path: assets/img/PliersSqueeze.jpg
     alt: "Squeeze"
 ---
 
