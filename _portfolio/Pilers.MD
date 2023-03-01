@@ -53,4 +53,4 @@ The design sat flush with the printer bed, therefore no support material was nec
 The whole part takes around 4 hours to print on a MakerGear M3-ID printer with the above-mentioned print settings and then after a few iterations the final product was functional multi-material pliers capable of picking up a 3mm pellet shown below in red and blue.
 
 
-{% include gallery caption="Iteration of pliers in order from left to right and final product test case" %}
+{% include gallery caption="Iteration of pliers in order from left to right and final product test case" %} 
