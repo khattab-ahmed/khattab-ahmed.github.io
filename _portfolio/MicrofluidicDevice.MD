@@ -17,10 +17,11 @@ This project was for my Additive and Polymer-Based Manufacturing course and reso
 
 # CAD Model and YouTube link 
 
-The pliers were created in Fusion360 and the model is shown below.
+The device was created in Fusion360 and the model is shown below.
 
 <iframe src="https://a360.co/3TCQDGO" width="600" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
  
+ The link to a youtube video of the device working is here. 
 
 # Design Specifications
 
