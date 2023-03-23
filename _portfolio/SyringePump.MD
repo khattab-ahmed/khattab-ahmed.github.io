@@ -33,37 +33,7 @@ The purpose of this project was to create a functional, accurate, and cost-effic
 
 
 # Arduino Code
-[Link to Arduino Code](/FInal_.ino)
 
-
-# CAD Model
-<iframe src="https://a360.co/3WfaQSP" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-
-
-# Components
-
-| 3D Printed  | Quanity |
-| ------------- | ------------- |
-| Electronics housing (PLA)  | 1 |
-| Motor mount (ABS)  | 1 |
-| Syringe mounting brackets (PLA)  | 3 |
-
-| Off-the-shelf  | Quanity |
-| ------------- | ------------- |
-| 2mm Lead Screw  | 1 |
-| 1/4" x 8mm Flexible Coupling  | 1  |
-| 200mm linear rod (8 mm diameter)  | 1  |
-| Linear bearing (8 mm diameter) | 1  |
-| 2040 Aluminum Extrusion 1'  | 1  |
-| Nema 17 Stepper Motor  | 1  |
-| Arduino Uno  | 1  |
-| A4988 Stepper Driver  | 1  |
-| Small Breadboard  | 1  |
-| Latching Push Buttons  | 2  |
-| Limit Switch  | 1  |
-| RGB Common Cathode LED  | 1  |
-
-## Arduino Code
 ```cpp
 #include <AccelStepper.h>
 AccelStepper stepperX(AccelStepper::DRIVER,11,12);
@@ -122,6 +92,34 @@ if (digitalRead(CCWbutton_pin) == LOW ){
 }
 
 ```
+
+
+# CAD Model
+<iframe src="https://a360.co/3WfaQSP" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+
+# Components
+
+| 3D Printed  | Quanity |
+| ------------- | ------------- |
+| Electronics housing (PLA)  | 1 |
+| Motor mount (ABS)  | 1 |
+| Syringe mounting brackets (PLA)  | 3 |
+
+| Off-the-shelf  | Quanity |
+| ------------- | ------------- |
+| 2mm Lead Screw  | 1 |
+| 1/4" x 8mm Flexible Coupling  | 1  |
+| 200mm linear rod (8 mm diameter)  | 1  |
+| Linear bearing (8 mm diameter) | 1  |
+| 2040 Aluminum Extrusion 1'  | 1  |
+| Nema 17 Stepper Motor  | 1  |
+| Arduino Uno  | 1  |
+| A4988 Stepper Driver  | 1  |
+| Small Breadboard  | 1  |
+| Latching Push Buttons  | 2  |
+| Limit Switch  | 1  |
+| RGB Common Cathode LED  | 1  |
 
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
