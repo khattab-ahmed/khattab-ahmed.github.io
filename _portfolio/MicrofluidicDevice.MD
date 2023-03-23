@@ -35,4 +35,4 @@ The whole part takes around 2 hours to print on a Form 3 printer with the above-
 
 # Process
 
-{% include gallery caption="Iteration of pliers in order from left to right and final product test case" %} 
+{% include gallery caption="Different views of both real and cad renders of the Microflulidic device" %} 
