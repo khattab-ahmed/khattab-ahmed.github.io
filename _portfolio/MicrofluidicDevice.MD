@@ -4,11 +4,11 @@ excerpt: "Vat Photopolymerization Printed Microfluidic Devices"
 header:
   teaser: /assets/img/MicroDevice.png
 gallery:
-  - url: /assets/img/MicroDevice1.jpeg
-    image_path: assets/img/MicroDevice1.jpeg
+  - url: /assets/img/MicroDevice1.png
+    image_path: assets/img/MicroDevice1.png
     alt: "Microfludic Device"
-  - url: /assets/img/MicroDevice2.jpeg
-    image_path: assets/img/MicroDevice2.jpeg
+  - url: /assets/img/MicroDevice2.png
+    image_path: assets/img/MicroDevice2.png
     alt: "Microfludic Device"
    
 ---
