@@ -19,7 +19,7 @@ This project was for my Additive and Polymer-Based Manufacturing course and reso
 
 * The FormLabs Form 3 SLA 3D printer was used to create the mold.
 
-## Why SLA
+### Why SLA
 
 The FormLabs Form 3 SLA printer was used to 3D print the mold of the microfluidic device and there is a multitude of reasons why Stereolithography (SLA) or Vat photopolymerization (VPP) was selected to do so including:
 * **High Resolution/ Part Accuracy**: VPP printers are capable of producing high-resolution parts with intricate details and a smooth surface finish. This makes SLA printing ideal for creating objects with fine details and complex geometries. The Form 3 specifically has an XY Resolution of 25 microns and a Laser Spot Size of 85 microns. 
