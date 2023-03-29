@@ -2,7 +2,7 @@
 title: "Microfluidic Device"
 excerpt: "Vat Photopolymerization Microfluidic Device"
 header:
-  teaser: /assets/img/MicroDevice1.png
+  teaser: /assets/img/MicroDevice3.png
 gallery:
   - url: /assets/img/MicroDevice.jpeg
     image_path: assets/img/MicroDevice.jpeg
@@ -41,7 +41,7 @@ The device was created in Fusion360 and the model is shown below.
 
 <iframe src="https://a360.co/3TCQDGO" width="600" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
  
- The link to a youtube video of the device working is here. 
+ The link to a youtube video of the device working is coming soon. 
 
 
 # Molding Process
