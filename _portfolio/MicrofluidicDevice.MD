@@ -15,7 +15,7 @@ gallery:
 
 This project was for my Additive and Polymer-Based Manufacturing course and resources from Vanderbilt University's Digital Fabrication Lab were used. The purpose of this project was to save babies. 
 
-# Design Specifications
+## Design Specifications
 
 * The FormLabs Form 3 SLA 3D printer was used to create the mold.
 
@@ -31,13 +31,13 @@ The FormLabs Form 3 SLA printer was used to 3D print the mold of the microfluidi
 Due to this project’s specific use case and all of the benefits mentioned above, SLA was the best 3D printing technology to create the negative mold for the microfluidic device. 
 
 
-# Print Settings
+## Print Settings
  
 The whole part takes around 2 hours to print on a Form 3 printer with the above-mentioned print settings and then after two iterations the final product was functional microfludic device.
 
 
 
-# CAD Model and YouTube link 
+## CAD Model and YouTube link 
 
 The device was created in Fusion360 and the model is shown below.
 
@@ -46,6 +46,7 @@ The device was created in Fusion360 and the model is shown below.
  The link to a youtube video of the device working is coming soon. 
 
 
-# Molding Process
+## Molding Process
+Coming soon 
 
 {% include gallery caption="Different views of both real and cad renders of the Microflulidic device" %} 
