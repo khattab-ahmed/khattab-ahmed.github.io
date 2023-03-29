@@ -19,11 +19,7 @@ This project was for my Additive and Polymer-Based Manufacturing course and reso
 
 * The FormLabs Form 3 SLA 3D printer was used to create the mold.
 
-# Print Settings
- 
-The whole part takes around 2 hours to print on a Form 3 printer with the above-mentioned print settings and then after two iterations the final product was functional microfludic device.
-
-# Why SLA
+## Why SLA
 
 The FormLabs Form 3 SLA printer was used to 3D print the mold of the microfluidic device and there is a multitude of reasons why Stereolithography (SLA) or Vat photopolymerization (VPP) was selected to do so including:
 * **High Resolution/ Part Accuracy**: VPP printers are capable of producing high-resolution parts with intricate details and a smooth surface finish. This makes SLA printing ideal for creating objects with fine details and complex geometries. The Form 3 specifically has an XY Resolution of 25 microns and a Laser Spot Size of 85 microns. 
@@ -33,6 +29,12 @@ The FormLabs Form 3 SLA printer was used to 3D print the mold of the microfluidi
 * **Minimal post-processing**: Due to the smooth finish, the only required post processing included removing supports, washing the part, and minimal curing (material properties are not crucial in this case).
 
 Due to this project’s specific use case and all of the benefits mentioned above, SLA was the best 3D printing technology to create the negative mold for the microfluidic device. 
+
+
+# Print Settings
+ 
+The whole part takes around 2 hours to print on a Form 3 printer with the above-mentioned print settings and then after two iterations the final product was functional microfludic device.
+
 
 
 # CAD Model and YouTube link 
