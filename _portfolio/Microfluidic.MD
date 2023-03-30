@@ -22,11 +22,7 @@ Many of the most traditional applications exist within the domain of biology and
 
 __Mix!__
 
-In this project, a microfluidic mixer was designed. While perhaps not immediately applicable to Computer Science, it 
-is easy to imagine such devices being used in the field in the future. As rare and precious earth metals grow more 
-expensive, it would be beneficial to create more efficient ways to form alloyed materials. Moreover, it becomes 
-necessary to consider than new semi-conductor materials may be needed in the not-so-distant future. Microfluidics 
-may provide a way to meet both challenges while leveraging a technology that is already established in other domains.
+In this project, a microfluidic mixer was designed. Microfluidic devices, which are typically used in biomedical and chemical applications, can also be applicable to mechanical engineering. In mechanical engineering, microfluidic devices can be used to develop and test new materials and coatings, study fluid flow in small spaces, and design more efficient cooling systems for electronics. By utilizing the precise control and manipulation of fluids that microfluidic devices offer, mechanical engineers can gain insights into the behavior of materials and fluids at a microscale level which can lead to the development of new technologies and systems with improved performance and efficiency.
 
 ## The Design
 
