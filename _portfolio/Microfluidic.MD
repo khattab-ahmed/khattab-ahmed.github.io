@@ -3,8 +3,8 @@ layout: single
 title: "SLA Micro-Fluidic Device"
 excerpt: "Micro-Fluidic Mixer Mold. Printed with SLA."
 header:
-  image: "/assets/img/MicroDevice3.PNG"
-  teaser: "/assets/img/MicroDevice.jpeg"
+  image: "/assets/img/MicroDevice.jpeg"
+  teaser: "/assets/img/MicroDevice3.PNG"
 ---
 
 ## Microfluidic Devices: An Introduction
