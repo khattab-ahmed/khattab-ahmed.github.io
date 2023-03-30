@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "SLA Micro-Fluidic Device"
-excerpt: "Micro-Fluidic Mixer Mold. Printed with SLA."
+excerpt: "Vat Photopolymerization Micro-Fluidic Device Mold"
 header:
   image: "/assets/img/MicroDevice.jpeg"
   teaser: "/assets/img/MicroDevice3.png"
