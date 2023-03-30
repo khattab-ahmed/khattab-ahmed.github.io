@@ -3,8 +3,8 @@ layout: single
 title: "SLA Micro-Fluidic Device"
 excerpt: "Micro-Fluidic Mixer Mold. Printed with SLA."
 header:
-  image: "/assets/img/finalUFluidic.jpg"
-  teaser: "/assets/img/finalUFluidic.jpg"
+  image: "/assets/img/MicroDevice.jpeg"
+  teaser: "/assets/img/MicroDevice.jpeg"
 ---
 
 ## Microfluidic Devices: An Introduction
@@ -30,7 +30,7 @@ may provide a way to meet both challenges while leveraging a technology that is 
 
 ## The Design
 
-<img src="/assets/img/ufRender.PNG" alt="Parallelogram Microfluidic Mixer Design" style="width:800px;">
+<img src="/assets/img/MicroDevice3.png" alt="Parallelogram Microfluidic Mixer Design" style="width:800px;">
 
 The device uses two different mixing patterns to efficiently mix the two fluids that enter. The design begins with 
 two inlets that converge into one channel. The fluid will encounter five parallelogram barriers within the channel at 
@@ -68,7 +68,7 @@ would be able to be manufactured.
 
 **Coming Soon**
 
-## Why was VPP chosen to print the negative mold?
+## Why SLA?
 
 The FormLabs Form 3 SLA printer was used to 3D print the mold of the microfluidic device and there is a multitude of reasons why Stereolithography (SLA) or Vat photopolymerization (VPP) was selected to do so including:
   - __High Resolution/ Accuracy__: VPP printers are capable of producing high-resolution parts with intricate details 
