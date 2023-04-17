@@ -3,8 +3,8 @@ layout: single
 title: "Large Format 3D Printed Podium"
 excerpt: "Generative Designed Podium"
 header:
-  image: "/assets/img/FinalPodium.png"
-  teaser: "/assets/img/FinalPodium.png"
+  image: "/assets/img/FinalPodiumFrontLeft.png"
+  teaser: "/assets/img/FinalPodiumSide.png"
 ---
 
 ## Large Format Printing & Generative Design Overview
@@ -15,7 +15,7 @@ header:
 
 ## The Design
 
-<img src="/assets/img/FinalPodium.png" alt="Render of Podium" style="width:800px;">
+<img src="/assets/img/FinalPodiumSideUp.png" alt="Render of Podium" style="width:800px;">
 
 ## Design Process
 
