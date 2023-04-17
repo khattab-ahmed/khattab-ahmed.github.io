@@ -3,8 +3,8 @@ layout: single
 title: "Large Format 3D Printed Podium"
 excerpt: "Generative Designed Podium"
 header:
-  image: "/assets/img/MicroDevice.jpeg"
-  teaser: "/assets/img/MicroDevice3.png"
+  image: "/assets/img/FinalPodium.png"
+  teaser: "/assets/img/FinalPodium.png"
 ---
 
 ## Large Format Printing & Generative Design Overview
@@ -15,7 +15,7 @@ header:
 
 ## The Design
 
-<img src="/assets/img/MicroDevice3.png" alt="Parallelogram Microfluidic Mixer Design" style="width:800px;">
+<img src="/assets/img/FinalPodium.png" alt="Render of Podium" style="width:800px;">
 
 ## Design Process
 
