@@ -15,7 +15,7 @@ header:
 
 ## The Design
 
-<img src="/assets/img/FinalPodiumSideUp.png" alt="Render of Podium" style="width:800px;">
+<img src="/assets/img/FinalPodiumSideUp.png" alt="Render of Podium" style="width:600px;">
 
 ## Design Process
 
