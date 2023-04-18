@@ -5,6 +5,13 @@ excerpt: "Generative Designed Podium"
 header:
   image: "/assets/img/FinalPodiumFrontLeft.png"
   teaser: "/assets/img/FinalPodiumSide.png"
+gallery:
+  - url: /assets/img/Podium1.png
+    image_path: assets/img/Podium1.png
+  - url: /assets/img/Podium2.png
+    image_path: assets/img/Podium2.png
+  - url: /assets/img/Podium3.png
+    image_path: assets/img/Podium3.png
 ---
 
 ## Large Format Printing & Generative Design Overview
@@ -15,7 +22,7 @@ header:
 
 ## The Design
 
-<img src="/assets/img/FinalPodiumSideUp.png" alt="Render of Podium" style="width:600px;">
+<img src="/assets/img/PodiumReal.JPG" alt="Render of Podium" style="width:500px;">
 
 ## Design Process
 
@@ -26,3 +33,5 @@ header:
 
 ## Citations
 
+
+{% include gallery caption="Steps along the design process" %} 
