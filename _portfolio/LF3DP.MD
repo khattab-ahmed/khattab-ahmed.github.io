@@ -47,13 +47,12 @@ However, there is a small problem with the idea of widely adopting the use of la
 
 Based on the advantages and disadvantages mentioned above, large-format 3D printing has considerable potential for planetary-surface construction. Potential applications include creating all of the previously mentioned essential structures like habitats, infrastructure, and other structures for scientific research. Overall, planetary-surface construction is a key aspect of space exploration and colonization and will play an important role in humanity's future expansion beyond Earth.
 
-
 ## The Design
 
 The objective of this assignment in my Additive and Polymer-Based Manufacturing course was to leverage Fusion360’s generative design (GD) workflow in to create a podium for the Digital Fabrication Lab. The podium would be printed using additive manufacturing techniques on a large-format 3D printer (LF3DP) and had to be optimized for such. Optimizing included; reducing material usage/weight as much as possible and removing any extreme overhang angles (< 45°), since the specific printer can’t produce support material to bridge overhanging material. 
 
 The LF3DP being used to print has the following specifications:
-- Build volume 4’x4’x4’
+- Build volume 4 x 4 x 4 ft
 - Output ~ 1 kg hour
 - Bridge distance < 100 mm
 - Minimum feature size: 30 mm
