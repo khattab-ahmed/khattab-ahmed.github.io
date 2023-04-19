@@ -69,7 +69,7 @@ Final Model Specifications:
 
 ## CAD Model of Device
 
-<iframe src="https://a360.co/41C5vZ7" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
+<iframe src="https://a360.co/41C5vZ7" width="600" height="500" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
 
 ## Design Process
 
