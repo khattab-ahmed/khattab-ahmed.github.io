@@ -69,7 +69,7 @@ Final Full-Scale Model Specifications:
 
 ## CAD Model of Device
 
-<iframe src="https://a360.co/41C5vZ7" width="600" height="500" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
+<iframe src="https://a360.co/41C5vZ7" width="650" height="650" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
 
 ## Design Process
 
