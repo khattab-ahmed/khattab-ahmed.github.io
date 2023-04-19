@@ -78,7 +78,7 @@ Using Fusion360 an initial basic design was created with a combination of rectan
 This was not immediately printable due to the overhang angles, therefore edits had to be made using the form tools within Fusion. That entailed dragging, deleting, and repositioning edges and faces of the model's mesh. The main area of the issue was the area between the top and the shelf, there were multiple connecting points where the overhang angle was smaller than 45° from the base. The final model is shown in the right picture below.
 
 
-{% include gallery caption="Steps along the design process"
+{% include gallery caption="Steps along the design process"%}
 
 ## Citations
 
