@@ -58,8 +58,6 @@ The LF3DP being used to print has the following specifications:
 - Minimum feature size: 30 mm
 
 <img src="/assets/img/PodiumReal.JPG" alt="Subscale model" style="width:500px;">
-
-
 Figure 1. Subscale model printed on an Original Prusa i3 MK3S at a .11 scale reduction to confirm printability and overhangs were greater than (> 45°).
 
 Final Full-Scale Model Specifications:
