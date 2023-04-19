@@ -60,9 +60,9 @@ The LF3DP being used to print has the following specifications:
 
 <img src="/assets/img/PodiumReal.JPG" alt="Render of Podium" style="width:500px;">
 
-Subscale model printed on an Original Prusa i3 MK3S at a .11 scale reduction to confirm printability and overhangs were greater than (> 45°).
+Figure 1. Subscale model printed on an Original Prusa i3 MK3S at a .11 scale reduction to confirm printability and overhangs were greater than (> 45°).
 
-Final Model Specifications:
+Final Full-Scale Model Specifications:
 - Dimensions: 30 x 30 x 47 in (762 x 762 x 1194 mm)
 - Weight in ABS Plastic: 208 lbs (94.4 kg)
 - Minimum Safety Factor: 9.87
@@ -78,13 +78,12 @@ Using Fusion360 an initial basic design was created with a combination of rectan
 This was not immediately printable due to the overhang angles, therefore edits had to be made using the form tools within Fusion. That entailed dragging, deleting, and repositioning edges and faces of the model's mesh. The main area of the issue was the area between the top and the shelf, there were multiple connecting points where the overhang angle was smaller than 45°. The final model is shown in the right picture below.
 
 
-## Citations
+{% include gallery caption="Steps along the design process
+
+Citations
 
 Autodesk. (n.d.). Generative design. Retrieved from https://www.autodesk.com/solutions/generative-design
 
 NASA. (n.d.). Surface construction. Retrieved from https://www.nasa.gov/oem/surfaceconstruction
 
-Wikipedia. (n.d.). Planetary surface construction. Retrieved from https://en.wikipedia.org/wiki/Planetary_surface_construction
-
-
-{% include gallery caption="Steps along the design process" %} 
+Wikipedia. (n.d.). Planetary surface construction. Retrieved from https://en.wikipedia.org/wiki/Planetary_surface_construction" %} 
