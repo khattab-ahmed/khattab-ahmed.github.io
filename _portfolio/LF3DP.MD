@@ -72,7 +72,7 @@ Using Fusion360 an initial basic design was created with a combination of rectan
 
 <img src="/assets/img/PodiumGD.png" alt="Subscale model" style="width:600px;">
 
-The design was not immediately printable due to the overhang angles, therefore edits had to be made using the form tools within Fusion. That entailed dragging, deleting, and repositioning edges and faces of the model's mesh. One of the main area of the issue was the area between the top and the shelf, there were multiple connecting points where the overhang angle was smaller than 45° from the base. After editing the model, a simulation was conducted to confirm that the model could still handle all of the load cases. The final model is shown in the right picture of the gallary.
+The design was not immediately printable due to the overhang angles, therefore edits had to be made using the form tools within Fusion. That entailed dragging, deleting, and repositioning edges and faces of the model's mesh. One of the main area of the issue was the area between the top and the shelf, there were multiple connecting points where the overhang angle was smaller than 45° from the base. After editing the model, a simulation was conducted to confirm that the model could still handle all of the load cases. The final model is shown in the right picture of the gallery.
 
 {% include gallery caption="Different stages along the design process"%}
 
