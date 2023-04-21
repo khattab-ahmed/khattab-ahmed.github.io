@@ -66,10 +66,6 @@ Final Full-Scale Model Specifications:
 - Weight in ABS Plastic: 208 lbs (94.4 kg)
 - Minimum Safety Factor: 9.87
 
-## CAD Model of Device
-
-<iframe src="https://a360.co/41C5vZ7" width="650" height="650" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
-
 ## Design Process
 
 Using Fusion360 an initial basic design was created with a combination of rectangles and squares. A picture of this is shown below on the left. The real magic happens after I created load cases and applied different pieces of the design. I started by creating a fixed structural constraint to the base so that Fusion would know that the model would be sitting on the base. Within that load case, I also added a force of 1500N that was normal to the top face of the podium, simulating a large person standing on the top of the podium. The second load case entailed a 400N shear force to the top face, simulating someone leaning against the podium. The third load case was a 200N force normal to the self, simulating up to 45 pounds of stuff being stored on the shelf. Together these load cases with the help of Fusion created a successful generative design shown in the middle picture below in the galary . 
@@ -79,6 +75,10 @@ Using Fusion360 an initial basic design was created with a combination of rectan
 This was not immediately printable due to the overhang angles, therefore edits had to be made using the form tools within Fusion. That entailed dragging, deleting, and repositioning edges and faces of the model's mesh. The main area of the issue was the area between the top and the shelf, there were multiple connecting points where the overhang angle was smaller than 45° from the base. The final model is shown in the right picture below.
 
 {% include gallery caption="Different stages along the design process"%}
+
+## CAD Model of Device
+
+<iframe src="https://a360.co/41C5vZ7" width="650" height="650" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
 
 ## Citations
 
