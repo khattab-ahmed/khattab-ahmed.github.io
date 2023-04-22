@@ -60,9 +60,9 @@ printing a prototype of the mold on the SLA printer, it seemed unlikely that the
 The width of the parallelograms was subsequently widened to 1 mm in order to increase the chance that the device 
 would be able to be manufactured.
 
-## The Manufacturing Process
+## Results
 
-**Coming Soon**
+<iframe src="https://youtu.be/tkyPoLz9E3s" width="650" height="650" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
 
 ## Why SLA?
 
