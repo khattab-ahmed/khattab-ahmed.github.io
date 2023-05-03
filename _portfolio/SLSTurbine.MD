@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Large Format 3D Printed Podium"
-excerpt: "Generative Designed Podium"
+title: "SLS EDF Turbine"
+excerpt: "Personal Project"
 header:
   image: "/assets/img/SLSTurbine.JPG"
   teaser: "/assets/img/SLSTurbine.JPG"
