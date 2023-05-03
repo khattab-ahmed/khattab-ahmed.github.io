@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "SLA Micro-Fluidic Device"
-excerpt: "Vat Photopolymerization Micro-Fluidic Device Mold"
+excerpt: "Class Project"
 header:
   image: "/assets/img/MicroDevice.jpeg"
   teaser: "/assets/img/MicroDevice3.png"
