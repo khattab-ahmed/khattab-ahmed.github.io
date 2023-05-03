@@ -1,6 +1,6 @@
 ---
 title: "Multimaterial Print-in-Place Pliers"
-excerpt: "3-D printed fuctional Pliers"
+excerpt: "Class Project"
 header:
   teaser: /assets/img/Pliers.png
 gallery:
