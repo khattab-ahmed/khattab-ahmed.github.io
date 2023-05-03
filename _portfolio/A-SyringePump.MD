@@ -1,6 +1,6 @@
 ---
-title: "Syringe Pump "
-excerpt: "Low cost 3D printed automated Syringe pump"
+title: "Low cost 3D printed Syringe Pump "
+excerpt: "Class Project"
 header:
   image: "/assets/img/SyringeRender.png"
   teaser: /assets/img/SyringeRender.png
