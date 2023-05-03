@@ -2,6 +2,7 @@
 title: "Syringe Pump "
 excerpt: "Low cost 3D printed automated Syringe pump"
 header:
+  image: "/assets/img/SyringeRender.png"
   teaser: /assets/img/SyringeRender.png
 gallery:
   - url: /assets/img/SyringePump1.JPG
