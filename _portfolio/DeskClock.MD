@@ -3,13 +3,13 @@ layout: single
 title: "Mechatronic Desk Clock"
 excerpt: "Final Project"
 header:
-  image: "/assets/img/SLSTurbine.JPG"
-  teaser: "/assets/img/SLSTurbine.JPG"
+  image: "/assets/img/DeskClock.JPG"
+  teaser: "/assets/img/DeskClock.JPG"
 gallery:
 
 ---
 
-## Custom Mechatronic Desk Clock
+## Custom Mechatronic Desk Clock Overview
 
 **Coming Soon**
 
