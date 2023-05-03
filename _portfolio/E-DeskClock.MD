@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Mechatronic Desk Clock"
-excerpt: "Final Project"
+excerpt: "Final Class Project"
 header:
   image: "/assets/img/DeskClock.JPG"
   teaser: "/assets/img/DeskClock.JPG"
