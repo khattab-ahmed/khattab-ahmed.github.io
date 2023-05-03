@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Large Format 3D Printed Podium"
-excerpt: "Generative Designed Podium"
+title: "Large Format Generative Designed Podium"
+excerpt: "Class Project"
 header:
   image: "/assets/img/FinalPodiumFrontLeft.png"
   teaser: "/assets/img/FinalPodiumSide.png"
