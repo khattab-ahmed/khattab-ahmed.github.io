@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Large Format Generative Designed Podium"
+title: "Generative Designed Podium"
 excerpt: "Class Project"
 header:
   image: "/assets/img/FinalPodiumFrontLeft.png"
